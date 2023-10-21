@@ -225,6 +225,7 @@
   .select-input {
     width: 70%;
   }
+  .signup-card ::placeholder,
   .sign-input ::placeholder {
     font-size: 15px;
   }
