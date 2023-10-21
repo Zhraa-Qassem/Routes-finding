@@ -225,7 +225,13 @@
   .select-input {
     width: 70%;
   }
-
+  .sign-input ::placeholder {
+    font-size: 15px;
+  }
+  .error {
+    font-size: 12px; 
+    height: 100%;
+  }
   .sign-input input,
   .add-input input,
   .where-input input,
